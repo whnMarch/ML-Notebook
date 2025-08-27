@@ -1,0 +1,1001 @@
+School,Grade,Name,Gender,Height,Weight,Transfer
+Sun Yat-sen University,Junior,Xiaohua Zhang,Female,174.2,68.9,Y
+Zhejiang University,Senior,Haoran Sun,Female,151.3,41.9,N
+Nanjing University,Freshman,Shanshan Zhou,Male,155.7,76.6,N
+Tongji University,Freshman,Haoran Sun,Male,159.8,71.5,Y
+Zhejiang University,Freshman,Qiang Xu,Male,168.8,65.6,N
+Nanjing University,Senior,Qiang Wang,Female,156.7,74.8,N
+Zhejiang University,Freshman,Zhenyu Sun,Male,172.9,72.8,N
+Shanghai Jiao Tong University,Junior,Zhenyu You,Male,170.2,82.6,N
+Zhejiang University,Sophomore,Shanshan Wang,Female,184.3,40.7,Y
+Tsinghua University,Sophomore,Zhenyu Liu,Male,160.5,75.0,N
+Tsinghua University,Freshman,Qiang You,Male,173.8,81.1,N
+Sun Yat-sen University,Senior,Xiaohua Zhou,Male,158.4,76.7,N
+Shanghai Jiao Tong University,Junior,Changqiang Yang,Male,168.6,63.8,N
+Fudan University,Senior,Yuchen Zhou,Female,155.8,83.5,Y
+Zhejiang University,Senior,Yuchen Liu,Male,153.9,66.6,N
+Sun Yat-sen University,Junior,Qiang Wang,Female,182.1,52.8,N
+Tongji University,Sophomore,Shanshan Li,Female,177.1,89.7,N
+Shanghai Jiao Tong University,Freshman,Changqiang Yang,Female,153.9,45.2,N
+Nanjing University,Sophomore,Liwei Wang,Male,151.4,71.0,Y
+Fudan University,Freshman,Changqiang You,Male,165.0,78.2,Y
+Peking University,Sophomore,Liwei Wang,Female,176.4,43.8,N
+Zhejiang University,Senior,Qiang Wang,Male,181.2,53.9,Y
+Sun Yat-sen University,Senior,Qiang Yang,Female,188.2,53.2,N
+Peking University,Senior,Xiaohua Sun,Female,157.1,64.6,Y
+Sun Yat-sen University,Sophomore,Shanshan You,Female,178.6,45.2,Y
+Peking University,Junior,Zhenyu Yang,Female,156.0,72.0,Y
+Sun Yat-sen University,Junior,Ming Liu,Female,173.0,65.8,N
+Tongji University,Senior,Yuchen You,Male,150.1,87.7,N
+Peking University,Junior,Qiang Wang,Female,152.2,89.9,Y
+Nanjing University,Junior,Changqiang Zhou,Female,175.9,48.8,Y
+Sun Yat-sen University,Sophomore,Liwei Chen,Male,175.2,58.0,Y
+Tongji University,Sophomore,Ming Yang,Male,151.0,89.8,Y
+Tongji University,Senior,Changqiang Xu,Female,170.0,88.2,N
+Shanghai Jiao Tong University,Freshman,Qiang Yang,Female,181.5,42.1,Y
+Fudan University,Senior,Haoran Zhang,Male,187.0,41.8,Y
+Tongji University,Freshman,Zhenyu Sun,Male,159.7,72.4,Y
+Tsinghua University,Freshman,Liwei You,Female,174.4,81.8,Y
+Peking University,Freshman,Zhenyu Sun,Male,152.5,50.1,N
+Sun Yat-sen University,Junior,Changqiang Sun,Male,162.9,88.2,Y
+Shanghai Jiao Tong University,Sophomore,Qiang You,Male,161.0,77.9,Y
+Nanjing University,Sophomore,Zhenyu Li,Male,155.3,79.6,N
+Tsinghua University,Freshman,Zhenyu You,Male,150.3,86.3,N
+Sun Yat-sen University,Senior,Ming Li,Male,175.6,66.2,N
+Fudan University,Sophomore,Shanshan Yang,Male,178.7,70.6,Y
+Zhejiang University,Junior,Yuchen Yang,Male,157.7,89.3,Y
+Nanjing University,Sophomore,Zhenyu Li,Female,152.1,45.6,Y
+Tongji University,Senior,Ming Zhang,Male,152.2,58.2,Y
+Sun Yat-sen University,Junior,Qiang Sun,Female,151.7,77.0,Y
+Tsinghua University,Freshman,Zhenyu Xu,Male,152.8,51.8,N
+Nanjing University,Senior,Xiaohua Liu,Male,181.2,56.3,Y
+Fudan University,Senior,Xiaohua Chen,Male,152.9,69.3,Y
+Sun Yat-sen University,Sophomore,Xiaohua Sun,Female,157.1,58.7,N
+Fudan University,Junior,Liwei Li,Female,155.1,74.6,Y
+Zhejiang University,Sophomore,Changqiang Zhou,Female,166.7,78.0,Y
+Zhejiang University,Sophomore,Shanshan Zhang,Male,153.5,82.8,N
+Fudan University,Senior,Zhenyu Wang,Male,179.2,76.8,Y
+Fudan University,Junior,Yuchen Sun,Male,185.7,69.6,Y
+Shanghai Jiao Tong University,Senior,Gaopeng Yang,Female,179.3,65.2,N
+Sun Yat-sen University,Senior,Changqiang Zhou,Female,159.6,67.9,Y
+Sun Yat-sen University,Sophomore,Ming Liu,Female,159.6,89.9,Y
+Tongji University,Junior,Ming Zhou,Male,189.1,63.2,Y
+Sun Yat-sen University,Sophomore,Qiang Zhou,Male,184.4,43.5,N
+Shanghai Jiao Tong University,Junior,Yuchen Wang,Male,181.5,44.0,N
+Shanghai Jiao Tong University,Junior,Gaopeng You,Female,164.6,71.0,N
+Nanjing University,Sophomore,Haoran You,Male,155.5,56.7,Y
+Tongji University,Sophomore,Xiaohua Liu,Female,185.9,65.2,N
+Zhejiang University,Freshman,Changqiang Liu,Female,168.1,65.1,Y
+Tongji University,Junior,Zhenyu Sun,Female,182.0,87.3,Y
+Fudan University,Senior,Changqiang You,Female,185.9,54.4,Y
+Peking University,Sophomore,Liwei You,Male,169.9,83.7,Y
+Zhejiang University,Senior,Haoran Zhang,Female,163.9,62.2,Y
+Zhejiang University,Sophomore,Changqiang Yang,Male,183.4,66.0,N
+Sun Yat-sen University,Junior,Qiang Zhou,Female,168.3,68.4,N
+Tsinghua University,Junior,Xiaohua Zhou,Female,188.8,78.5,Y
+Tsinghua University,Junior,Liwei Zhou,Male,174.7,48.0,N
+Tsinghua University,Sophomore,Ming Zhang,Male,154.7,89.7,Y
+Tongji University,Junior,Qiang Zhang,Male,172.5,41.7,N
+Nanjing University,Sophomore,Qiang Zhou,Male,171.3,46.1,Y
+Sun Yat-sen University,Senior,Ming Zhou,Female,156.2,88.5,N
+Zhejiang University,Senior,Liwei Sun,Male,182.0,76.4,N
+Nanjing University,Freshman,Zhenyu Yang,Male,177.1,45.8,Y
+Sun Yat-sen University,Sophomore,Zhenyu Liu,Male,163.1,70.4,Y
+Fudan University,Junior,Xiaohua Yang,Male,171.5,62.3,Y
+Sun Yat-sen University,Sophomore,Zhenyu Liu,Male,186.3,58.1,Y
+Sun Yat-sen University,Junior,Yuchen Liu,Male,161.4,57.6,N
+Peking University,Sophomore,Zhenyu Chen,Female,161.5,80.3,N
+Sun Yat-sen University,Sophomore,Shanshan Sun,Male,155.7,55.2,N
+Peking University,Senior,Changqiang Yang,Female,175.6,53.7,Y
+Tongji University,Sophomore,Xiaohua Zhang,Female,161.6,64.5,N
+Zhejiang University,Senior,Haoran Zhou,Male,151.1,40.1,N
+Zhejiang University,Senior,Changqiang Wang,Female,157.2,85.3,Y
+Shanghai Jiao Tong University,Freshman,Liwei Zhou,Male,174.0,58.1,N
+Sun Yat-sen University,Junior,Zhenyu You,Female,170.5,68.8,N
+Tsinghua University,Freshman,Ming Liu,Female,185.1,46.8,Y
+Shanghai Jiao Tong University,Junior,Qiang Chen,Female,151.9,54.6,Y
+Fudan University,Sophomore,Changqiang Sun,Male,171.7,83.6,N
+Zhejiang University,Junior,Changqiang Xu,Female,182.9,40.6,N
+Nanjing University,Senior,Yuchen Liu,Male,154.1,47.7,Y
+Fudan University,Freshman,Yuchen Zhou,Male,154.7,46.6,Y
+Tongji University,Junior,Liwei Liu,Male,182.7,84.5,N
+Tsinghua University,Junior,Gaopeng You,Male,155.1,74.7,Y
+Zhejiang University,Sophomore,Xiaohua Zhang,Male,167.0,78.2,Y
+Peking University,Freshman,Zhenyu Chen,Male,157.9,41.6,Y
+Tongji University,Freshman,Liwei Yang,Male,162.1,40.5,Y
+Peking University,Sophomore,Shanshan Li,Male,176.8,41.5,Y
+Zhejiang University,Junior,Qiang Zhang,Male,170.2,43.4,Y
+Fudan University,Sophomore,Liwei Zhang,Male,188.9,44.9,Y
+Tongji University,Junior,Shanshan Zhang,Female,176.9,45.4,N
+Sun Yat-sen University,Senior,Xiaohua Xu,Male,166.3,78.1,N
+Peking University,Senior,Changqiang Xu,Male,169.8,58.1,N
+Shanghai Jiao Tong University,Freshman,Qiang Zhou,Male,165.4,62.8,N
+Tongji University,Sophomore,Haoran Chen,Female,189.4,61.4,Y
+Tongji University,Junior,Ming Yang,Female,176.9,59.8,Y
+Peking University,Sophomore,Yuchen Chen,Male,179.7,84.6,Y
+Peking University,Junior,Xiaohua Liu,Male,173.8,89.5,Y
+Fudan University,Senior,Zhenyu Wang,Female,180.3,80.0,N
+Nanjing University,Senior,Shanshan Chen,Female,170.5,47.4,N
+Peking University,Freshman,Liwei Zhou,Female,159.2,87.1,Y
+Peking University,Freshman,Changqiang Zhou,Male,188.9,59.1,N
+Tsinghua University,Junior,Shanshan Sun,Male,180.4,73.1,N
+Tongji University,Sophomore,Liwei Zhou,Female,170.2,67.1,Y
+Shanghai Jiao Tong University,Senior,Changqiang Chen,Female,162.6,58.8,N
+Shanghai Jiao Tong University,Freshman,Ming Xu,Female,185.4,48.2,N
+Tsinghua University,Junior,Yuchen Zhou,Male,172.8,64.5,N
+Tongji University,Sophomore,Haoran Yang,Female,160.5,69.6,N
+Nanjing University,Junior,Qiang Yang,Male,173.6,46.4,N
+Nanjing University,Freshman,Qiang Chen,Male,167.1,89.6,N
+Nanjing University,Freshman,Xiaohua Li,Male,175.9,69.6,Y
+Zhejiang University,Freshman,Qiang Zhang,Male,171.5,41.9,N
+Sun Yat-sen University,Junior,Gaopeng Zhou,Male,189.4,58.9,N
+Nanjing University,Freshman,Zhenyu You,Male,163.4,65.1,N
+Tsinghua University,Junior,Qiang Chen,Male,169.9,82.4,Y
+Fudan University,Junior,Liwei Yang,Female,189.8,60.1,Y
+Peking University,Freshman,Shanshan Liu,Female,152.7,80.1,N
+Sun Yat-sen University,Sophomore,Qiang You,Female,170.2,55.0,N
+Fudan University,Senior,Yuchen Wang,Female,176.9,67.4,Y
+Tsinghua University,Senior,Xiaohua Zhou,Female,187.5,66.6,N
+Shanghai Jiao Tong University,Sophomore,Qiang Zhou,Male,159.6,77.3,N
+Sun Yat-sen University,Senior,Qiang You,Male,183.8,53.3,N
+Tsinghua University,Junior,Shanshan Li,Female,159.5,47.5,Y
+Fudan University,Junior,Zhenyu Zhou,Female,166.9,85.3,Y
+Tsinghua University,Junior,Ming Yang,Female,181.6,53.9,Y
+Shanghai Jiao Tong University,Senior,Gaopeng Yang,Male,162.6,54.9,Y
+Sun Yat-sen University,Junior,Changqiang Chen,Male,159.4,68.5,Y
+Zhejiang University,Senior,Changqiang Li,Male,180.9,55.7,N
+Fudan University,Senior,Xiaohua Zhang,Male,157.0,88.5,N
+Sun Yat-sen University,Junior,Shanshan Yang,Female,171.3,75.0,Y
+Nanjing University,Senior,Zhenyu Li,Female,185.2,86.8,N
+Tongji University,Junior,Liwei Yang,Male,183.7,73.1,Y
+Fudan University,Junior,Haoran Chen,Female,175.6,75.0,Y
+Fudan University,Senior,Yuchen Yang,Female,187.1,85.9,N
+Peking University,Sophomore,Liwei Li,Male,186.6,71.6,N
+Shanghai Jiao Tong University,Junior,Changqiang Zhou,Female,179.5,86.3,N
+Sun Yat-sen University,Freshman,Ming Wang,Male,164.1,70.1,N
+Tongji University,Freshman,Gaopeng Zhang,Female,181.6,46.8,N
+Fudan University,Junior,Qiang Sun,Male,154.4,52.5,Y
+Sun Yat-sen University,Junior,Zhenyu Zhou,Male,160.4,74.4,N
+Zhejiang University,Sophomore,Changqiang Chen,Female,157.3,83.8,Y
+Shanghai Jiao Tong University,Freshman,Haoran Sun,Male,186.3,88.7,Y
+Zhejiang University,Sophomore,Gaopeng Chen,Female,174.0,47.5,N
+Tsinghua University,Freshman,Gaopeng Xu,Female,180.9,86.4,N
+Peking University,Sophomore,Xiaohua Li,Female,161.5,64.7,Y
+Sun Yat-sen University,Sophomore,Shanshan Li,Female,179.1,49.5,Y
+Sun Yat-sen University,Sophomore,Gaopeng Wang,Female,159.4,62.5,Y
+Nanjing University,Senior,Changqiang Yang,Female,155.3,56.2,N
+Fudan University,Senior,Yuchen Sun,Female,152.9,67.8,Y
+Nanjing University,Sophomore,Zhenyu Liu,Male,150.2,65.2,N
+Zhejiang University,Senior,Qiang Zhang,Male,173.2,53.0,N
+Nanjing University,Senior,Ming You,Female,178.4,61.6,N
+Peking University,Junior,Gaopeng Zhang,Female,184.9,81.7,N
+Sun Yat-sen University,Junior,Liwei Sun,Female,170.7,61.8,Y
+Nanjing University,Senior,Ming Xu,Female,152.1,47.4,Y
+Tsinghua University,Freshman,Zhenyu Wang,Male,178.2,61.8,N
+Shanghai Jiao Tong University,Senior,Qiang Xu,Female,168.3,45.6,Y
+Peking University,Junior,Changqiang Li,Female,157.2,48.4,N
+Fudan University,Freshman,Haoran Sun,Male,166.7,43.8,N
+Peking University,Junior,Gaopeng Wang,Male,165.8,69.5,Y
+Nanjing University,Sophomore,Gaopeng You,Female,183.2,73.0,N
+Zhejiang University,Freshman,Qiang Yang,Female,163.0,76.6,Y
+Fudan University,Freshman,Liwei Liu,Male,179.8,67.4,N
+Peking University,Senior,Liwei Zhang,Male,188.6,83.3,Y
+Shanghai Jiao Tong University,Sophomore,Ming Chen,Female,161.4,77.6,Y
+Peking University,Junior,Zhenyu Chen,Female,186.1,70.2,N
+Peking University,Junior,Haoran Li,Female,167.8,59.4,N
+Sun Yat-sen University,Freshman,Yuchen Liu,Male,167.4,61.3,Y
+Nanjing University,Senior,Xiaohua Zhang,Female,171.1,72.4,Y
+Zhejiang University,Senior,Yuchen You,Female,162.0,89.2,N
+Fudan University,Senior,Liwei Sun,Male,172.0,85.9,Y
+Sun Yat-sen University,Senior,Changqiang Zhou,Female,164.2,69.3,Y
+Peking University,Senior,Ming Zhang,Female,151.8,60.8,N
+Nanjing University,Senior,Zhenyu Sun,Female,163.7,85.9,Y
+Fudan University,Sophomore,Changqiang Sun,Female,184.9,45.3,Y
+Shanghai Jiao Tong University,Senior,Changqiang Yang,Male,176.2,63.0,N
+Tongji University,Junior,Shanshan Sun,Female,177.6,88.2,N
+Zhejiang University,Freshman,Ming Zhang,Male,157.6,80.8,Y
+Shanghai Jiao Tong University,Sophomore,Zhenyu Zhang,Male,167.4,71.3,Y
+Peking University,Junior,Zhenyu Zhang,Female,166.9,45.8,Y
+Tongji University,Senior,Zhenyu Yang,Female,173.4,50.1,N
+Shanghai Jiao Tong University,Junior,Gaopeng You,Female,189.2,82.4,N
+Shanghai Jiao Tong University,Senior,Yuchen Zhou,Female,159.3,43.0,Y
+Sun Yat-sen University,Junior,Haoran You,Female,185.7,60.9,N
+Peking University,Senior,Shanshan Liu,Female,177.9,41.0,N
+Fudan University,Senior,Qiang Zhou,Male,170.3,69.4,N
+Tongji University,Sophomore,Liwei Chen,Female,183.3,73.7,N
+Tongji University,Sophomore,Shanshan Li,Female,177.6,44.3,N
+Tsinghua University,Sophomore,Xiaohua Zhang,Female,154.0,60.8,N
+Zhejiang University,Sophomore,Xiaohua Xu,Male,190.0,57.9,N
+Nanjing University,Sophomore,Ming Xu,Male,182.3,56.9,Y
+Fudan University,Freshman,Haoran Li,Female,160.3,57.0,N
+Shanghai Jiao Tong University,Junior,Ming Xu,Male,178.3,86.3,N
+Tongji University,Freshman,Changqiang Sun,Male,182.9,42.1,Y
+Tsinghua University,Freshman,Xiaohua Liu,Male,179.1,75.4,N
+Peking University,Sophomore,Qiang Liu,Male,154.9,50.1,N
+Shanghai Jiao Tong University,Sophomore,Zhenyu Liu,Female,170.2,44.3,N
+Sun Yat-sen University,Junior,Xiaohua Zhang,Female,181.5,46.9,N
+Sun Yat-sen University,Senior,Zhenyu Xu,Female,187.7,62.1,Y
+Peking University,Freshman,Qiang Liu,Female,189.3,48.2,Y
+Sun Yat-sen University,Freshman,Ming Sun,Male,189.1,89.0,N
+Sun Yat-sen University,Senior,Haoran Wang,Female,186.4,40.4,N
+Tsinghua University,Senior,Zhenyu Li,Female,177.9,84.4,N
+Fudan University,Junior,Changqiang Yang,Female,165.6,75.9,Y
+Zhejiang University,Sophomore,Changqiang Xu,Female,170.9,77.9,Y
+Shanghai Jiao Tong University,Freshman,Haoran Sun,Female,159.7,78.7,N
+Peking University,Freshman,Qiang Wang,Female,155.0,77.8,Y
+Tongji University,Junior,Shanshan Yang,Female,163.6,51.8,Y
+Nanjing University,Junior,Liwei Sun,Male,178.6,66.0,Y
+Peking University,Junior,Haoran Sun,Male,182.9,58.1,Y
+Tsinghua University,Senior,Yuchen You,Male,152.5,84.4,N
+Fudan University,Senior,Changqiang Liu,Female,173.5,65.9,N
+Zhejiang University,Senior,Yuchen Zhou,Female,179.3,60.8,Y
+Tsinghua University,Sophomore,Zhenyu Zhou,Male,188.7,65.7,Y
+Fudan University,Senior,Zhenyu Yang,Male,187.8,58.5,Y
+Sun Yat-sen University,Freshman,Changqiang Liu,Female,151.6,47.7,N
+Zhejiang University,Junior,Liwei Wang,Female,151.1,47.1,N
+Shanghai Jiao Tong University,Junior,Liwei Li,Male,182.8,64.4,Y
+Nanjing University,Freshman,Gaopeng Chen,Female,172.9,68.3,N
+Sun Yat-sen University,Senior,Shanshan Zhang,Male,170.2,63.0,N
+Tongji University,Sophomore,Qiang You,Female,165.5,85.0,N
+Shanghai Jiao Tong University,Senior,Liwei You,Male,178.3,68.6,N
+Peking University,Freshman,Xiaohua Sun,Male,188.3,66.1,N
+Shanghai Jiao Tong University,Freshman,Haoran Zhang,Male,161.0,50.3,N
+Peking University,Junior,Yuchen Sun,Male,169.7,86.7,N
+Sun Yat-sen University,Sophomore,Yuchen Yang,Female,165.3,44.6,Y
+Tsinghua University,Junior,Ming Zhang,Female,180.7,47.7,N
+Tsinghua University,Freshman,Shanshan Liu,Male,151.1,42.9,N
+Peking University,Junior,Ming Chen,Female,160.3,87.1,Y
+Shanghai Jiao Tong University,Sophomore,Xiaohua Sun,Male,169.7,77.6,N
+Peking University,Junior,Gaopeng Liu,Female,172.1,43.3,Y
+Sun Yat-sen University,Sophomore,Gaopeng Wang,Male,159.9,67.7,Y
+Zhejiang University,Senior,Zhenyu You,Male,181.3,47.1,Y
+Fudan University,Senior,Haoran Zhou,Male,150.0,63.2,N
+Tsinghua University,Freshman,Gaopeng Zhou,Female,173.9,82.0,N
+Nanjing University,Sophomore,Shanshan Xu,Female,151.8,77.0,Y
+Zhejiang University,Freshman,Yuchen You,Male,179.0,89.9,N
+Fudan University,Junior,Qiang Wang,Female,160.9,73.1,N
+Nanjing University,Sophomore,Zhenyu Sun,Female,150.6,74.6,Y
+Tongji University,Freshman,Gaopeng Zhang,Female,172.2,74.8,N
+Sun Yat-sen University,Freshman,Changqiang Xu,Male,185.7,80.8,N
+Peking University,Junior,Yuchen Sun,Female,165.5,82.0,Y
+Peking University,Senior,Qiang Li,Female,150.4,77.2,N
+Nanjing University,Sophomore,Changqiang Sun,Female,182.3,51.1,N
+Nanjing University,Freshman,Liwei Zhou,Male,150.3,89.2,N
+Peking University,Junior,Shanshan Xu,Female,156.8,49.7,Y
+Peking University,Sophomore,Changqiang Zhang,Female,187.3,82.8,N
+Fudan University,Freshman,Haoran Sun,Female,177.2,84.2,Y
+Sun Yat-sen University,Freshman,Qiang Chen,Female,161.0,74.0,N
+Tongji University,Junior,Haoran Yang,Male,151.9,85.9,N
+Nanjing University,Freshman,Yuchen Li,Female,153.3,68.6,Y
+Fudan University,Senior,Changqiang Li,Male,156.6,55.5,Y
+Shanghai Jiao Tong University,Senior,Yuchen Yang,Female,183.6,52.4,N
+Fudan University,Junior,Gaopeng Liu,Male,187.7,78.8,N
+Peking University,Senior,Shanshan You,Male,189.0,85.8,N
+Nanjing University,Freshman,Ming Yang,Female,152.2,70.5,N
+Peking University,Freshman,Gaopeng Xu,Male,161.8,59.1,Y
+Sun Yat-sen University,Sophomore,Shanshan Sun,Male,168.1,63.2,N
+Peking University,Junior,Gaopeng Zhou,Female,173.5,45.4,Y
+Peking University,Sophomore,Shanshan Zhang,Female,164.2,64.1,N
+Tsinghua University,Sophomore,Ming Yang,Male,155.1,69.2,N
+Zhejiang University,Sophomore,Ming Zhou,Female,174.1,54.6,Y
+Tsinghua University,Freshman,Xiaohua Xu,Male,166.9,49.8,Y
+Fudan University,Freshman,Qiang Li,Female,177.8,89.1,N
+Nanjing University,Junior,Yuchen Liu,Male,154.2,83.8,Y
+Tongji University,Sophomore,Gaopeng Li,Male,168.7,50.7,N
+Nanjing University,Senior,Xiaohua Chen,Male,183.0,40.3,Y
+Peking University,Junior,Gaopeng Xu,Male,155.7,62.0,N
+Shanghai Jiao Tong University,Freshman,Xiaohua Li,Female,157.0,84.3,Y
+Nanjing University,Sophomore,Ming Li,Male,157.0,53.1,Y
+Shanghai Jiao Tong University,Sophomore,Yuchen You,Female,187.4,55.3,Y
+Nanjing University,Junior,Ming Xu,Female,185.1,43.3,Y
+Tsinghua University,Sophomore,Xiaohua Xu,Female,177.8,55.9,N
+Fudan University,Freshman,Shanshan Sun,Male,184.2,54.7,Y
+Nanjing University,Sophomore,Gaopeng Wang,Male,184.1,88.4,N
+Fudan University,Freshman,Zhenyu Sun,Male,156.7,59.4,N
+Tongji University,Senior,Ming Liu,Female,171.0,64.2,N
+Tongji University,Junior,Shanshan Chen,Male,158.3,84.7,N
+Fudan University,Senior,Xiaohua Wang,Female,185.5,68.6,N
+Zhejiang University,Freshman,Ming You,Female,167.8,57.6,Y
+Tongji University,Junior,Yuchen Zhou,Female,167.3,58.4,N
+Nanjing University,Junior,Yuchen Yang,Male,167.7,53.3,Y
+Nanjing University,Freshman,Liwei Xu,Male,181.4,86.3,Y
+Peking University,Freshman,Qiang Yang,Male,163.4,73.8,N
+Zhejiang University,Junior,Xiaohua Sun,Male,189.9,77.6,N
+Shanghai Jiao Tong University,Junior,Liwei Liu,Female,187.8,81.1,Y
+Tongji University,Sophomore,Yuchen Li,Male,178.9,50.5,Y
+Tongji University,Senior,Qiang You,Female,183.8,61.4,N
+Fudan University,Senior,Zhenyu Xu,Male,165.0,68.9,Y
+Zhejiang University,Freshman,Zhenyu Liu,Female,159.0,61.3,N
+Zhejiang University,Junior,Shanshan Yang,Male,186.9,47.7,N
+Sun Yat-sen University,Senior,Xiaohua Chen,Male,171.4,49.4,Y
+Nanjing University,Senior,Liwei You,Male,154.2,67.6,Y
+Tongji University,Freshman,Ming Li,Male,186.5,59.3,Y
+Fudan University,Junior,Haoran You,Female,152.3,65.9,Y
+Nanjing University,Senior,Yuchen Zhang,Male,155.2,60.9,Y
+Sun Yat-sen University,Sophomore,Ming Li,Female,167.3,75.5,N
+Tsinghua University,Junior,Shanshan Li,Female,161.0,40.4,Y
+Tongji University,Freshman,Yuchen Sun,Male,171.0,85.5,N
+Tongji University,Senior,Shanshan Yang,Male,161.5,84.0,N
+Nanjing University,Junior,Yuchen Sun,Male,166.6,49.0,N
+Tongji University,Senior,Ming Sun,Male,165.7,87.3,Y
+Tsinghua University,Junior,Haoran Wang,Male,177.9,76.1,Y
+Tongji University,Senior,Haoran You,Female,153.1,45.3,N
+Sun Yat-sen University,Senior,Ming Wang,Male,170.2,63.1,Y
+Tongji University,Senior,Qiang Chen,Male,165.9,40.5,Y
+Tsinghua University,Junior,Zhenyu Zhou,Female,152.7,67.4,Y
+Tongji University,Sophomore,Zhenyu Wang,Male,156.8,40.9,Y
+Tsinghua University,Junior,Changqiang Xu,Female,156.7,73.6,Y
+Zhejiang University,Sophomore,Zhenyu Liu,Male,158.7,41.7,Y
+Tongji University,Freshman,Haoran You,Female,177.6,62.2,Y
+Shanghai Jiao Tong University,Senior,Xiaohua Li,Female,186.4,50.0,Y
+Sun Yat-sen University,Freshman,Gaopeng Liu,Male,177.2,43.2,Y
+Tsinghua University,Sophomore,Gaopeng Chen,Male,182.6,56.1,Y
+Fudan University,Senior,Yuchen You,Male,158.6,57.8,Y
+Shanghai Jiao Tong University,Senior,Qiang Yang,Female,158.5,51.0,N
+Nanjing University,Freshman,Changqiang Li,Female,162.1,69.9,Y
+Tsinghua University,Junior,Changqiang Sun,Female,189.3,74.8,Y
+Nanjing University,Sophomore,Qiang Zhou,Male,163.4,70.4,N
+Sun Yat-sen University,Sophomore,Haoran Sun,Male,159.3,70.8,Y
+Zhejiang University,Sophomore,Yuchen Li,Male,152.4,58.7,N
+Fudan University,Sophomore,Yuchen Li,Male,159.5,76.3,N
+Nanjing University,Sophomore,Liwei Liu,Male,170.8,88.9,N
+Shanghai Jiao Tong University,Sophomore,Qiang Liu,Male,158.2,42.7,Y
+Fudan University,Senior,Haoran Liu,Male,167.7,40.3,N
+Peking University,Sophomore,Gaopeng Zhang,Male,155.0,48.7,Y
+Fudan University,Freshman,Yuchen Zhou,Female,156.6,49.9,N
+Tsinghua University,Sophomore,Liwei Wang,Female,188.7,50.1,N
+Peking University,Junior,Yuchen Chen,Male,168.8,61.1,N
+Tsinghua University,Senior,Gaopeng Chen,Female,184.2,77.9,N
+Tsinghua University,Sophomore,Liwei Chen,Female,162.2,54.2,N
+Peking University,Junior,Ming Zhou,Male,156.2,49.5,Y
+Nanjing University,Senior,Yuchen Chen,Female,188.8,58.7,N
+Zhejiang University,Freshman,Yuchen Yang,Male,165.4,68.3,Y
+Sun Yat-sen University,Junior,Qiang Xu,Female,175.4,58.4,Y
+Sun Yat-sen University,Senior,Xiaohua Li,Female,151.4,80.7,Y
+Tsinghua University,Junior,Shanshan Zhou,Male,160.2,70.1,Y
+Shanghai Jiao Tong University,Freshman,Changqiang Chen,Female,178.2,88.7,Y
+Fudan University,Senior,Ming Chen,Female,177.7,65.0,N
+Zhejiang University,Senior,Changqiang You,Female,182.6,53.5,Y
+Sun Yat-sen University,Junior,Gaopeng Zhang,Female,150.1,43.5,N
+Sun Yat-sen University,Junior,Yuchen Zhang,Male,165.0,75.2,Y
+Tongji University,Sophomore,Haoran You,Female,172.7,50.6,Y
+Shanghai Jiao Tong University,Sophomore,Xiaohua Wang,Female,167.6,85.6,Y
+Tsinghua University,Freshman,Liwei You,Female,155.0,43.2,Y
+Fudan University,Senior,Zhenyu You,Male,152.4,77.6,Y
+Shanghai Jiao Tong University,Freshman,Xiaohua Xu,Male,165.0,66.0,N
+Tongji University,Senior,Qiang Sun,Female,163.5,74.1,N
+Nanjing University,Sophomore,Qiang Chen,Female,174.4,88.8,N
+Peking University,Freshman,Zhenyu Chen,Male,151.0,46.1,N
+Fudan University,Junior,Zhenyu Sun,Female,170.6,73.0,Y
+Nanjing University,Freshman,Qiang Yang,Female,177.1,51.7,N
+Sun Yat-sen University,Freshman,Qiang Chen,Female,189.5,82.9,Y
+Sun Yat-sen University,Junior,Shanshan Li,Male,184.8,83.8,Y
+Tsinghua University,Senior,Changqiang Wang,Female,156.7,62.3,Y
+Tongji University,Sophomore,Xiaohua Li,Male,180.1,73.0,Y
+Peking University,Senior,Gaopeng Zhang,Female,186.1,78.3,Y
+Zhejiang University,Senior,Changqiang Zhang,Female,153.6,74.6,Y
+Peking University,Junior,Yuchen Chen,Female,182.3,51.2,Y
+Zhejiang University,Freshman,Changqiang You,Female,179.6,86.9,Y
+Nanjing University,Sophomore,Qiang Chen,Male,162.4,69.5,Y
+Sun Yat-sen University,Senior,Qiang Liu,Male,170.8,70.1,Y
+Peking University,Senior,Gaopeng Xu,Female,162.6,80.8,N
+Fudan University,Senior,Zhenyu Zhang,Female,155.8,73.3,Y
+Nanjing University,Junior,Haoran You,Female,189.9,75.3,N
+Fudan University,Senior,Liwei Chen,Male,189.2,56.7,Y
+Fudan University,Freshman,Ming Zhou,Female,162.0,80.8,Y
+Shanghai Jiao Tong University,Senior,Qiang Chen,Female,189.6,77.9,N
+Peking University,Junior,Liwei Li,Female,153.9,56.2,Y
+Zhejiang University,Senior,Ming Sun,Male,167.7,64.1,Y
+Fudan University,Sophomore,Xiaohua Yang,Female,179.0,68.8,Y
+Sun Yat-sen University,Senior,Ming Yang,Male,164.2,63.7,Y
+Peking University,Junior,Shanshan Chen,Male,175.1,60.2,Y
+Peking University,Sophomore,Yuchen Zhou,Female,177.5,87.7,N
+Peking University,Senior,Yuchen Wang,Female,164.7,46.0,Y
+Peking University,Senior,Haoran Li,Male,173.5,89.4,N
+Zhejiang University,Freshman,Shanshan Zhang,Female,169.4,72.2,N
+Zhejiang University,Sophomore,Changqiang Liu,Male,178.6,83.1,Y
+Sun Yat-sen University,Freshman,Yuchen Xu,Female,152.6,81.9,Y
+Fudan University,Freshman,Ming Sun,Male,150.2,62.4,N
+Peking University,Freshman,Ming Sun,Male,176.1,44.4,N
+Shanghai Jiao Tong University,Freshman,Changqiang Xu,Female,164.5,67.2,N
+Shanghai Jiao Tong University,Sophomore,Liwei Yang,Female,176.4,62.2,N
+Nanjing University,Junior,Shanshan Xu,Male,177.5,73.1,Y
+Fudan University,Freshman,Xiaohua Zhang,Female,184.2,50.8,Y
+Fudan University,Junior,Liwei Zhang,Female,153.0,52.7,N
+Tsinghua University,Senior,Zhenyu You,Female,177.1,87.0,Y
+Fudan University,Freshman,Liwei Li,Female,172.5,72.4,Y
+Sun Yat-sen University,Sophomore,Qiang Chen,Female,151.0,70.2,Y
+Zhejiang University,Freshman,Haoran You,Female,152.6,72.0,N
+Nanjing University,Junior,Ming Li,Female,150.4,58.9,Y
+Sun Yat-sen University,Freshman,Changqiang Zhang,Female,173.6,80.3,Y
+Nanjing University,Junior,Haoran Wang,Male,185.9,48.5,N
+Tsinghua University,Junior,Haoran Xu,Female,169.1,46.4,Y
+Tsinghua University,Sophomore,Ming Chen,Female,152.1,76.3,N
+Fudan University,Senior,Zhenyu Zhang,Female,189.4,79.9,N
+Zhejiang University,Senior,Haoran Li,Female,175.4,44.3,N
+Sun Yat-sen University,Junior,Changqiang You,Male,179.2,87.2,Y
+Shanghai Jiao Tong University,Freshman,Liwei Xu,Female,182.3,40.5,N
+Tsinghua University,Senior,Zhenyu Xu,Male,166.2,70.8,Y
+Sun Yat-sen University,Junior,Xiaohua Xu,Male,174.3,88.2,Y
+Tsinghua University,Freshman,Qiang Zhang,Female,188.1,61.1,N
+Tsinghua University,Junior,Changqiang Liu,Male,183.3,82.5,Y
+Zhejiang University,Junior,Zhenyu Wang,Female,158.5,76.9,N
+Fudan University,Junior,Haoran Yang,Female,185.7,82.4,Y
+Nanjing University,Freshman,Shanshan Zhou,Female,161.9,45.4,N
+Tsinghua University,Senior,Qiang Yang,Male,167.2,49.9,Y
+Sun Yat-sen University,Freshman,Zhenyu Yang,Male,180.8,52.5,N
+Sun Yat-sen University,Junior,Liwei Liu,Female,185.7,66.8,N
+Peking University,Senior,Zhenyu Zhang,Male,164.1,61.7,N
+Fudan University,Freshman,Xiaohua Wang,Male,155.3,61.1,N
+Shanghai Jiao Tong University,Sophomore,Xiaohua Zhou,Female,154.8,64.5,N
+Tsinghua University,Junior,Yuchen Xu,Female,155.3,87.9,Y
+Tsinghua University,Sophomore,Qiang Xu,Male,180.7,51.8,N
+Sun Yat-sen University,Freshman,Yuchen Zhou,Female,161.3,44.1,N
+Fudan University,Sophomore,Haoran Zhang,Male,161.2,45.8,N
+Fudan University,Senior,Xiaohua Zhou,Male,178.0,65.1,Y
+Fudan University,Sophomore,Xiaohua You,Male,166.1,53.7,Y
+Tsinghua University,Senior,Gaopeng Sun,Male,153.6,42.5,N
+Zhejiang University,Sophomore,Xiaohua Liu,Female,169.2,65.5,Y
+Zhejiang University,Freshman,Liwei Liu,Female,187.7,75.6,Y
+Nanjing University,Freshman,Ming Yang,Male,152.1,77.2,Y
+Zhejiang University,Senior,Liwei Sun,Male,167.2,52.6,N
+Nanjing University,Junior,Liwei You,Male,176.8,74.1,Y
+Nanjing University,Junior,Qiang Sun,Female,159.5,53.8,N
+Peking University,Freshman,Ming Sun,Male,151.6,88.4,Y
+Fudan University,Senior,Changqiang You,Female,162.1,63.7,Y
+Tsinghua University,Freshman,Ming Li,Female,172.0,52.6,N
+Nanjing University,Senior,Changqiang Chen,Male,169.3,66.2,Y
+Tsinghua University,Junior,Ming Wang,Male,188.2,43.0,Y
+Sun Yat-sen University,Senior,Haoran Xu,Male,156.6,77.5,N
+Sun Yat-sen University,Senior,Shanshan Wang,Male,157.4,48.0,Y
+Shanghai Jiao Tong University,Senior,Haoran Xu,Female,162.1,51.0,N
+Peking University,Sophomore,Xiaohua Yang,Male,161.7,72.0,N
+Tsinghua University,Junior,Gaopeng Li,Male,171.4,40.1,N
+Nanjing University,Junior,Changqiang Xu,Female,178.9,60.4,N
+Nanjing University,Freshman,Gaopeng Liu,Male,179.2,54.0,N
+Shanghai Jiao Tong University,Freshman,Yuchen Wang,Male,182.7,51.0,N
+Fudan University,Senior,Ming Zhou,Male,179.2,61.7,Y
+Tongji University,Freshman,Zhenyu Zhang,Female,157.4,83.1,Y
+Tongji University,Sophomore,Liwei Yang,Female,156.5,48.9,N
+Fudan University,Freshman,Ming You,Female,159.8,85.5,N
+Peking University,Sophomore,Gaopeng Sun,Male,165.1,41.0,Y
+Shanghai Jiao Tong University,Sophomore,Xiaohua You,Female,155.7,71.4,Y
+Shanghai Jiao Tong University,Freshman,Haoran Liu,Male,158.1,64.0,N
+Tsinghua University,Junior,Qiang Zhou,Male,159.8,67.2,N
+Peking University,Freshman,Gaopeng You,Female,154.1,84.3,N
+Tsinghua University,Freshman,Xiaohua Yang,Male,167.1,47.4,N
+Fudan University,Senior,Changqiang Zhou,Male,189.6,51.2,N
+Nanjing University,Freshman,Shanshan Liu,Male,164.4,86.2,Y
+Shanghai Jiao Tong University,Sophomore,Ming Chen,Female,174.0,74.0,Y
+Zhejiang University,Junior,Qiang You,Female,186.6,73.1,N
+Peking University,Freshman,Ming Zhang,Female,155.9,62.3,N
+Peking University,Freshman,Shanshan Chen,Female,155.8,56.2,Y
+Tsinghua University,Senior,Qiang Liu,Female,167.0,74.7,N
+Nanjing University,Sophomore,Xiaohua Chen,Female,172.0,66.9,N
+Fudan University,Senior,Changqiang Sun,Female,171.1,78.8,Y
+Peking University,Sophomore,Qiang Yang,Male,189.8,40.9,N
+Tsinghua University,Freshman,Gaopeng Liu,Female,184.0,83.3,Y
+Zhejiang University,Senior,Ming Xu,Female,159.7,81.4,Y
+Tsinghua University,Freshman,Ming Chen,Male,177.8,61.2,Y
+Peking University,Freshman,Zhenyu Sun,Male,151.2,58.3,Y
+Fudan University,Freshman,Gaopeng Sun,Female,156.0,49.1,Y
+Zhejiang University,Senior,Yuchen Liu,Female,181.3,74.8,N
+Peking University,Sophomore,Gaopeng Yang,Male,170.1,40.5,N
+Tongji University,Junior,Shanshan Xu,Female,178.4,61.2,Y
+Zhejiang University,Freshman,Haoran Chen,Male,179.7,60.0,Y
+Fudan University,Senior,Ming Xu,Male,182.7,63.4,N
+Sun Yat-sen University,Senior,Ming Yang,Female,175.9,49.7,Y
+Peking University,Freshman,Qiang Sun,Female,151.1,54.1,Y
+Peking University,Sophomore,Shanshan Yang,Female,157.5,50.1,Y
+Fudan University,Junior,Changqiang Sun,Male,172.5,79.5,Y
+Shanghai Jiao Tong University,Junior,Changqiang Wang,Male,189.2,77.6,N
+Fudan University,Junior,Yuchen Liu,Male,178.1,44.9,N
+Peking University,Sophomore,Gaopeng Sun,Female,169.1,83.4,Y
+Zhejiang University,Sophomore,Ming Zhou,Male,185.4,44.7,Y
+Fudan University,Sophomore,Ming Xu,Female,167.9,46.6,N
+Nanjing University,Senior,Gaopeng Chen,Male,158.4,70.5,Y
+Tsinghua University,Senior,Changqiang Yang,Male,180.7,55.5,Y
+Tongji University,Freshman,Zhenyu Liu,Male,187.4,48.1,N
+Nanjing University,Junior,Changqiang You,Male,178.4,63.0,N
+Zhejiang University,Senior,Ming You,Female,151.6,83.0,N
+Sun Yat-sen University,Sophomore,Zhenyu Liu,Female,164.9,74.1,N
+Zhejiang University,Freshman,Shanshan Yang,Male,178.0,68.0,Y
+Peking University,Junior,Yuchen Zhang,Female,184.2,51.2,N
+Peking University,Junior,Zhenyu Zhou,Female,154.4,49.0,Y
+Sun Yat-sen University,Senior,Xiaohua Chen,Female,152.6,57.1,N
+Fudan University,Senior,Changqiang Wang,Female,151.5,47.8,N
+Tsinghua University,Sophomore,Qiang Sun,Male,189.5,78.7,Y
+Nanjing University,Senior,Zhenyu Li,Male,158.5,41.1,N
+Zhejiang University,Junior,Ming You,Male,152.8,60.3,N
+Tongji University,Senior,Haoran Li,Female,157.4,42.7,N
+Nanjing University,Junior,Ming Li,Female,187.7,64.1,Y
+Sun Yat-sen University,Junior,Shanshan Chen,Male,172.4,84.7,Y
+Peking University,Sophomore,Qiang Liu,Male,156.0,62.9,Y
+Tongji University,Junior,Changqiang Chen,Female,170.8,40.2,N
+Tsinghua University,Senior,Shanshan You,Male,158.7,89.0,N
+Tsinghua University,Senior,Xiaohua Liu,Male,188.1,88.6,Y
+Nanjing University,Junior,Gaopeng Wang,Female,170.1,83.4,N
+Tongji University,Senior,Yuchen Liu,Female,183.1,61.3,N
+Peking University,Sophomore,Zhenyu Chen,Female,157.1,69.7,N
+Sun Yat-sen University,Junior,Yuchen Wang,Male,189.8,80.3,Y
+Peking University,Freshman,Shanshan Chen,Male,169.9,77.6,Y
+Tongji University,Freshman,Liwei Chen,Male,158.9,62.7,N
+Peking University,Sophomore,Zhenyu You,Female,188.7,85.7,N
+Sun Yat-sen University,Freshman,Qiang Li,Female,160.7,72.9,N
+Sun Yat-sen University,Sophomore,Gaopeng Chen,Male,150.6,47.7,N
+Nanjing University,Junior,Ming Sun,Female,159.7,88.7,Y
+Sun Yat-sen University,Freshman,Shanshan Chen,Male,187.6,59.5,Y
+Sun Yat-sen University,Junior,Haoran Zhang,Female,159.2,75.5,Y
+Peking University,Senior,Liwei Xu,Male,187.9,50.2,Y
+Shanghai Jiao Tong University,Senior,Gaopeng Sun,Male,151.1,75.4,Y
+Sun Yat-sen University,Freshman,Ming Zhou,Female,157.5,72.6,Y
+Zhejiang University,Sophomore,Haoran Li,Female,180.8,73.0,N
+Peking University,Sophomore,Gaopeng Sun,Male,154.4,86.4,Y
+Peking University,Sophomore,Liwei Wang,Male,153.7,64.7,N
+Fudan University,Senior,Changqiang Zhou,Male,166.5,64.3,Y
+Fudan University,Senior,Yuchen Liu,Female,182.3,49.0,Y
+Tsinghua University,Freshman,Changqiang Liu,Female,169.4,70.7,Y
+Tsinghua University,Junior,Changqiang Li,Male,171.4,65.9,Y
+Fudan University,Junior,Changqiang Li,Male,163.1,51.0,Y
+Zhejiang University,Junior,Zhenyu Li,Male,163.9,67.6,N
+Tongji University,Senior,Yuchen Xu,Female,186.9,52.5,Y
+Zhejiang University,Senior,Changqiang Sun,Female,156.6,50.3,N
+Sun Yat-sen University,Senior,Yuchen Sun,Female,182.6,71.1,N
+Sun Yat-sen University,Sophomore,Shanshan Liu,Female,185.9,81.0,N
+Tsinghua University,Freshman,Haoran Wang,Female,161.7,81.3,N
+Sun Yat-sen University,Freshman,Changqiang Zhang,Female,167.2,49.3,Y
+Peking University,Sophomore,Qiang Liu,Male,181.2,46.1,N
+Shanghai Jiao Tong University,Junior,Xiaohua Zhou,Female,185.9,68.1,N
+Zhejiang University,Sophomore,Haoran Li,Male,172.4,75.8,Y
+Sun Yat-sen University,Senior,Qiang Liu,Male,157.9,80.1,N
+Shanghai Jiao Tong University,Junior,Yuchen You,Male,168.1,70.1,N
+Fudan University,Freshman,Liwei Yang,Male,186.5,54.2,N
+Shanghai Jiao Tong University,Freshman,Qiang Yang,Male,168.8,81.5,N
+Zhejiang University,Junior,Qiang Liu,Female,153.2,78.7,N
+Shanghai Jiao Tong University,Senior,Liwei Zhou,Female,183.9,88.4,Y
+Nanjing University,Freshman,Gaopeng Li,Male,183.0,46.9,N
+Sun Yat-sen University,Sophomore,Ming You,Male,179.0,80.6,Y
+Shanghai Jiao Tong University,Junior,Gaopeng You,Male,187.9,43.8,N
+Sun Yat-sen University,Junior,Ming Zhang,Female,154.8,56.0,Y
+Sun Yat-sen University,Senior,Changqiang Xu,Male,173.1,73.1,N
+Nanjing University,Senior,Xiaohua You,Female,180.6,75.6,N
+Fudan University,Sophomore,Changqiang You,Female,152.4,40.7,Y
+Tongji University,Senior,Xiaohua Zhou,Male,163.6,80.7,N
+Zhejiang University,Senior,Ming Xu,Male,186.6,50.9,N
+Sun Yat-sen University,Senior,Shanshan Xu,Male,181.2,49.4,N
+Sun Yat-sen University,Sophomore,Liwei Sun,Male,155.9,83.8,Y
+Fudan University,Freshman,Zhenyu Zhang,Female,151.1,73.1,N
+Nanjing University,Junior,Changqiang Xu,Male,164.2,50.6,N
+Sun Yat-sen University,Junior,Gaopeng Zhou,Female,164.8,42.5,N
+Sun Yat-sen University,Sophomore,Liwei Li,Female,157.1,53.8,N
+Sun Yat-sen University,Freshman,Gaopeng Li,Male,158.8,42.7,Y
+Zhejiang University,Sophomore,Changqiang Xu,Male,161.0,84.1,N
+Sun Yat-sen University,Senior,Changqiang Li,Female,169.8,48.6,Y
+Nanjing University,Junior,Shanshan Wang,Male,153.8,65.2,N
+Zhejiang University,Sophomore,Ming Liu,Male,156.7,56.6,N
+Tsinghua University,Freshman,Zhenyu Chen,Female,150.8,88.7,Y
+Tsinghua University,Freshman,Shanshan Liu,Female,173.3,64.4,Y
+Tongji University,Freshman,Gaopeng Yang,Female,183.4,66.3,Y
+Tsinghua University,Freshman,Changqiang Wang,Female,168.1,76.7,N
+Tongji University,Junior,Qiang Zhou,Male,183.1,55.1,N
+Tongji University,Freshman,Liwei Xu,Male,155.9,60.5,Y
+Tsinghua University,Junior,Zhenyu Yang,Male,173.1,74.8,N
+Nanjing University,Sophomore,Changqiang Li,Female,175.5,88.3,N
+Tsinghua University,Junior,Qiang Liu,Female,173.6,87.3,N
+Zhejiang University,Sophomore,Gaopeng Sun,Female,183.4,46.1,N
+Nanjing University,Junior,Changqiang Yang,Female,187.1,47.4,Y
+Zhejiang University,Sophomore,Liwei Zhou,Female,152.6,54.7,N
+Shanghai Jiao Tong University,Sophomore,Liwei Sun,Male,152.1,55.3,N
+Nanjing University,Freshman,Gaopeng Wang,Male,164.0,54.2,Y
+Peking University,Junior,Ming Li,Female,173.4,44.0,Y
+Shanghai Jiao Tong University,Senior,Qiang Li,Female,166.9,88.3,Y
+Zhejiang University,Junior,Shanshan Wang,Male,172.6,73.9,N
+Tsinghua University,Sophomore,Liwei Zhang,Female,172.2,55.1,Y
+Zhejiang University,Senior,Haoran Zhang,Female,181.3,81.7,Y
+Tsinghua University,Senior,Qiang Xu,Female,168.7,61.4,N
+Sun Yat-sen University,Senior,Gaopeng Xu,Male,188.3,61.0,Y
+Zhejiang University,Sophomore,Shanshan Xu,Female,155.1,67.2,N
+Shanghai Jiao Tong University,Senior,Ming Chen,Male,168.5,78.1,N
+Shanghai Jiao Tong University,Freshman,Gaopeng Wang,Male,163.3,44.9,N
+Tongji University,Junior,Gaopeng You,Male,178.1,65.8,N
+Tsinghua University,Sophomore,Ming Wang,Female,178.8,86.8,N
+Fudan University,Freshman,Changqiang Yang,Male,174.2,46.1,Y
+Fudan University,Sophomore,Changqiang Zhou,Male,183.3,62.2,Y
+Peking University,Junior,Yuchen Zhou,Male,182.8,82.1,N
+Tongji University,Freshman,Yuchen Zhang,Male,157.4,80.9,Y
+Tsinghua University,Sophomore,Zhenyu Zhou,Female,161.6,45.0,N
+Nanjing University,Junior,Yuchen Chen,Male,168.6,80.7,Y
+Shanghai Jiao Tong University,Junior,Zhenyu You,Female,150.4,55.1,N
+Shanghai Jiao Tong University,Junior,Ming Zhou,Female,161.1,89.1,N
+Fudan University,Junior,Haoran Chen,Male,157.0,47.6,N
+Tongji University,Sophomore,Liwei Wang,Female,152.7,82.0,N
+Sun Yat-sen University,Senior,Shanshan Zhang,Female,155.2,56.2,N
+Sun Yat-sen University,Freshman,Gaopeng Yang,Male,159.3,73.3,N
+Tongji University,Junior,Xiaohua Li,Male,186.0,48.7,N
+Sun Yat-sen University,Freshman,Gaopeng Sun,Female,154.6,82.3,Y
+Tongji University,Junior,Shanshan Yang,Male,162.8,74.9,N
+Tsinghua University,Sophomore,Xiaohua Wang,Female,167.5,54.3,Y
+Tsinghua University,Senior,Haoran Li,Male,173.3,71.5,Y
+Fudan University,Freshman,Ming Yang,Female,181.0,68.4,Y
+Nanjing University,Sophomore,Haoran Zhou,Male,183.3,68.5,N
+Nanjing University,Junior,Shanshan Xu,Male,182.1,61.9,N
+Peking University,Freshman,Ming Xu,Female,154.0,64.9,Y
+Nanjing University,Freshman,Xiaohua Wang,Female,165.6,57.9,Y
+Zhejiang University,Freshman,Haoran Sun,Male,184.1,86.6,N
+Sun Yat-sen University,Freshman,Haoran You,Female,187.5,89.2,Y
+Shanghai Jiao Tong University,Junior,Yuchen Wang,Male,163.4,78.2,Y
+Fudan University,Junior,Gaopeng Li,Female,152.9,87.4,Y
+Nanjing University,Freshman,Yuchen Sun,Male,185.5,63.9,Y
+Zhejiang University,Freshman,Changqiang Yang,Female,170.3,72.5,N
+Tongji University,Junior,Xiaohua Yang,Male,151.1,79.1,Y
+Sun Yat-sen University,Freshman,Haoran Zhou,Male,165.5,58.9,Y
+Sun Yat-sen University,Senior,Haoran Zhang,Male,167.5,84.9,N
+Nanjing University,Sophomore,Qiang Chen,Male,159.5,44.6,Y
+Fudan University,Senior,Haoran Sun,Male,189.6,40.7,Y
+Shanghai Jiao Tong University,Freshman,Gaopeng Zhang,Female,157.2,42.2,N
+Fudan University,Junior,Ming Sun,Female,169.1,46.1,Y
+Peking University,Junior,Haoran Li,Female,178.2,80.7,Y
+Tongji University,Junior,Qiang Xu,Female,184.8,52.2,N
+Nanjing University,Freshman,Gaopeng Liu,Female,178.2,71.1,N
+Peking University,Sophomore,Ming Xu,Male,162.2,67.6,Y
+Nanjing University,Sophomore,Gaopeng Li,Female,176.0,62.7,Y
+Shanghai Jiao Tong University,Senior,Gaopeng Wang,Female,173.5,55.0,Y
+Shanghai Jiao Tong University,Junior,Shanshan Chen,Female,150.8,59.1,N
+Shanghai Jiao Tong University,Sophomore,Xiaohua Chen,Male,176.4,66.6,N
+Shanghai Jiao Tong University,Junior,Gaopeng Sun,Female,186.9,85.4,Y
+Shanghai Jiao Tong University,Junior,Shanshan Chen,Female,181.3,86.4,Y
+Peking University,Senior,Liwei Xu,Female,167.0,76.0,N
+Tsinghua University,Senior,Zhenyu Li,Male,186.3,54.0,N
+Peking University,Sophomore,Haoran Wang,Female,172.8,41.9,N
+Nanjing University,Junior,Liwei Sun,Male,155.0,68.4,N
+Zhejiang University,Sophomore,Zhenyu Zhou,Male,167.6,63.3,N
+Tongji University,Sophomore,Yuchen Yang,Male,161.1,70.5,N
+Peking University,Senior,Ming Wang,Female,160.4,64.7,Y
+Tsinghua University,Sophomore,Shanshan Yang,Male,154.6,41.9,N
+Nanjing University,Freshman,Haoran Li,Male,188.1,89.6,N
+Shanghai Jiao Tong University,Junior,Haoran Yang,Male,164.0,43.9,N
+Peking University,Freshman,Xiaohua Li,Female,172.8,81.5,N
+Peking University,Senior,Liwei Zhang,Male,163.1,79.4,N
+Sun Yat-sen University,Junior,Zhenyu Wang,Male,156.4,42.2,Y
+Shanghai Jiao Tong University,Freshman,Shanshan Li,Female,170.4,79.0,N
+Fudan University,Senior,Shanshan Yang,Male,165.2,89.9,Y
+Peking University,Sophomore,Shanshan Xu,Female,171.6,46.1,Y
+Tongji University,Senior,Qiang Wang,Male,183.4,54.7,Y
+Nanjing University,Sophomore,Qiang Li,Female,162.6,88.6,Y
+Tongji University,Senior,Qiang You,Female,172.4,43.8,N
+Tongji University,Sophomore,Zhenyu Chen,Male,172.8,81.3,Y
+Fudan University,Senior,Shanshan Zhang,Female,181.8,57.1,Y
+Peking University,Senior,Yuchen Xu,Male,173.0,71.6,Y
+Tsinghua University,Senior,Gaopeng Zhang,Male,166.7,78.3,N
+Peking University,Sophomore,Gaopeng Chen,Male,177.6,89.5,Y
+Sun Yat-sen University,Senior,Qiang Zhang,Female,177.9,52.1,N
+Peking University,Junior,Qiang Sun,Male,189.8,42.3,N
+Tongji University,Senior,Zhenyu Chen,Female,180.3,75.0,Y
+Peking University,Sophomore,Gaopeng Sun,Female,177.0,62.7,N
+Tongji University,Sophomore,Haoran Sun,Female,187.8,44.8,N
+Tongji University,Junior,Gaopeng Sun,Female,161.4,59.2,Y
+Tsinghua University,Freshman,Xiaohua Chen,Female,173.0,70.8,Y
+Nanjing University,Junior,Ming You,Female,161.0,61.9,Y
+Zhejiang University,Junior,Shanshan You,Male,176.7,47.1,Y
+Tsinghua University,Freshman,Shanshan Yang,Male,150.3,81.6,Y
+Nanjing University,Sophomore,Liwei Sun,Female,179.3,66.0,N
+Zhejiang University,Freshman,Changqiang Zhou,Female,169.7,44.3,Y
+Zhejiang University,Freshman,Qiang You,Male,179.1,56.4,N
+Zhejiang University,Senior,Haoran You,Female,185.7,41.9,Y
+Nanjing University,Sophomore,Haoran Yang,Male,159.8,69.3,Y
+Fudan University,Junior,Zhenyu Zhang,Female,182.6,76.7,N
+Tsinghua University,Sophomore,Changqiang Xu,Male,150.1,43.4,Y
+Tsinghua University,Freshman,Yuchen Wang,Female,175.2,51.7,N
+Tongji University,Sophomore,Liwei Li,Female,176.7,64.5,N
+Nanjing University,Senior,Liwei You,Male,154.5,84.0,N
+Sun Yat-sen University,Senior,Qiang Li,Female,154.6,63.2,N
+Peking University,Junior,Yuchen Zhang,Female,183.6,83.2,N
+Fudan University,Freshman,Liwei Wang,Male,185.6,79.1,Y
+Nanjing University,Junior,Qiang Chen,Female,182.4,61.3,N
+Shanghai Jiao Tong University,Junior,Zhenyu Li,Female,175.5,42.3,N
+Sun Yat-sen University,Sophomore,Shanshan Zhang,Male,181.2,45.5,N
+Tsinghua University,Freshman,Gaopeng Chen,Male,181.2,56.7,N
+Peking University,Freshman,Haoran Li,Female,171.4,89.3,N
+Fudan University,Junior,Ming Liu,Female,166.5,67.6,Y
+Shanghai Jiao Tong University,Freshman,Gaopeng Xu,Male,170.1,79.6,Y
+Tsinghua University,Junior,Liwei Yang,Male,175.3,74.4,Y
+Zhejiang University,Freshman,Yuchen Chen,Male,182.7,83.8,Y
+Peking University,Freshman,Haoran Chen,Male,150.6,81.5,Y
+Peking University,Senior,Xiaohua Sun,Female,181.4,61.3,Y
+Zhejiang University,Junior,Zhenyu Li,Male,160.6,72.8,N
+Sun Yat-sen University,Junior,Yuchen You,Male,188.7,68.0,N
+Zhejiang University,Sophomore,Yuchen Yang,Female,179.1,87.6,Y
+Tongji University,Sophomore,Shanshan Yang,Female,180.8,62.4,N
+Peking University,Junior,Qiang Zhang,Male,153.8,48.5,N
+Fudan University,Freshman,Ming Chen,Female,170.9,82.0,Y
+Shanghai Jiao Tong University,Senior,Liwei Chen,Female,179.6,81.7,Y
+Nanjing University,Senior,Gaopeng Wang,Male,180.2,79.7,N
+Nanjing University,Sophomore,Qiang Zhou,Female,170.6,82.9,Y
+Peking University,Senior,Changqiang Chen,Male,180.3,48.1,Y
+Tsinghua University,Sophomore,Zhenyu You,Male,185.4,64.8,N
+Tsinghua University,Senior,Yuchen Yang,Female,154.7,89.8,N
+Nanjing University,Junior,Shanshan Zhang,Male,161.6,74.3,N
+Zhejiang University,Senior,Zhenyu Li,Female,187.1,76.0,Y
+Tsinghua University,Senior,Gaopeng Liu,Female,157.2,63.5,Y
+Zhejiang University,Sophomore,Xiaohua You,Female,163.2,43.1,N
+Tsinghua University,Freshman,Qiang Xu,Male,163.8,40.7,Y
+Zhejiang University,Junior,Yuchen Sun,Female,164.7,78.3,N
+Fudan University,Freshman,Shanshan Zhang,Male,179.2,54.0,N
+Peking University,Sophomore,Haoran Sun,Female,163.2,78.6,N
+Tongji University,Sophomore,Ming Yang,Male,189.6,44.6,Y
+Tsinghua University,Sophomore,Zhenyu Yang,Female,153.1,88.5,Y
+Tongji University,Senior,Zhenyu Liu,Female,170.0,45.9,N
+Sun Yat-sen University,Senior,Zhenyu Liu,Female,183.5,55.8,Y
+Fudan University,Sophomore,Liwei Zhang,Female,172.4,64.5,N
+Peking University,Senior,Qiang Zhang,Male,184.6,82.8,N
+Sun Yat-sen University,Sophomore,Shanshan Xu,Male,165.3,49.0,Y
+Fudan University,Senior,Qiang Xu,Male,150.2,55.5,Y
+Nanjing University,Junior,Haoran Yang,Female,151.3,53.7,N
+Sun Yat-sen University,Freshman,Liwei Wang,Male,188.8,81.2,N
+Tongji University,Senior,Ming Zhou,Male,151.5,41.4,Y
+Tsinghua University,Sophomore,Changqiang Chen,Male,152.2,71.9,Y
+Nanjing University,Freshman,Haoran Wang,Male,176.2,76.9,N
+Nanjing University,Sophomore,Shanshan Liu,Male,187.6,60.2,Y
+Peking University,Sophomore,Haoran Zhang,Female,153.4,62.2,N
+Fudan University,Senior,Ming Yang,Female,161.0,57.5,N
+Tongji University,Freshman,Shanshan Zhou,Male,154.7,44.5,Y
+Tsinghua University,Junior,Shanshan Yang,Male,181.5,50.9,N
+Tongji University,Freshman,Xiaohua Wang,Male,179.9,76.9,N
+Shanghai Jiao Tong University,Senior,Liwei Zhang,Female,155.6,55.8,Y
+Fudan University,Junior,Xiaohua Zhang,Female,160.4,62.0,Y
+Tongji University,Junior,Shanshan Liu,Female,180.9,66.2,Y
+Shanghai Jiao Tong University,Senior,Ming Xu,Male,189.8,61.7,N
+Fudan University,Junior,Haoran Xu,Female,153.6,78.7,N
+Fudan University,Senior,Liwei Yang,Male,170.7,71.6,N
+Tsinghua University,Senior,Shanshan Liu,Female,172.6,72.9,Y
+Nanjing University,Freshman,Qiang Yang,Male,166.9,56.7,Y
+Tsinghua University,Junior,Liwei Zhang,Female,171.9,77.6,N
+Tongji University,Senior,Yuchen Zhou,Male,160.1,58.7,N
+Tongji University,Senior,Liwei Yang,Male,180.5,85.0,Y
+Sun Yat-sen University,Senior,Liwei Sun,Female,173.7,48.2,Y
+Zhejiang University,Sophomore,Shanshan Zhang,Male,176.5,79.4,Y
+Peking University,Junior,Ming Liu,Female,165.8,63.0,Y
+Fudan University,Sophomore,Liwei Wang,Male,157.4,82.9,N
+Peking University,Sophomore,Ming Xu,Female,150.2,48.0,Y
+Tongji University,Senior,Xiaohua Zhou,Female,183.3,75.3,Y
+Sun Yat-sen University,Sophomore,Qiang Zhang,Female,180.9,84.9,N
+Sun Yat-sen University,Freshman,Qiang Zhou,Male,158.9,70.4,Y
+Nanjing University,Junior,Qiang Xu,Male,174.4,77.6,Y
+Fudan University,Sophomore,Zhenyu Li,Male,158.4,61.8,N
+Sun Yat-sen University,Sophomore,Yuchen Zhang,Female,162.4,73.8,N
+Shanghai Jiao Tong University,Junior,Yuchen Zhang,Male,165.9,65.9,Y
+Tongji University,Freshman,Qiang You,Female,182.1,40.6,N
+Tsinghua University,Senior,Zhenyu Yang,Female,176.2,73.5,N
+Shanghai Jiao Tong University,Junior,Yuchen Wang,Male,174.1,80.1,N
+Nanjing University,Senior,Qiang Xu,Female,154.5,48.9,N
+Sun Yat-sen University,Freshman,Ming Yang,Female,187.9,75.4,N
+Fudan University,Senior,Yuchen Yang,Female,161.3,46.1,N
+Tongji University,Junior,Gaopeng Sun,Female,160.1,56.9,N
+Shanghai Jiao Tong University,Junior,Ming Wang,Female,166.7,62.3,N
+Shanghai Jiao Tong University,Freshman,Qiang Yang,Female,159.9,44.2,Y
+Tsinghua University,Sophomore,Zhenyu Chen,Female,163.8,62.9,Y
+Tongji University,Freshman,Changqiang Liu,Female,151.5,70.5,Y
+Sun Yat-sen University,Freshman,Qiang Wang,Female,166.0,49.2,N
+Peking University,Senior,Changqiang Li,Female,189.8,70.8,Y
+Shanghai Jiao Tong University,Junior,Shanshan Zhou,Male,180.4,61.8,Y
+Zhejiang University,Freshman,Shanshan Chen,Male,177.1,53.6,N
+Fudan University,Freshman,Yuchen Zhang,Female,160.7,70.0,N
+Peking University,Sophomore,Xiaohua Yang,Female,158.8,70.6,N
+Sun Yat-sen University,Junior,Haoran Chen,Female,187.2,40.6,N
+Nanjing University,Junior,Zhenyu Zhang,Female,184.2,64.9,Y
+Sun Yat-sen University,Junior,Yuchen Yang,Male,175.3,68.1,N
+Peking University,Sophomore,Haoran Liu,Female,161.7,55.8,N
+Shanghai Jiao Tong University,Sophomore,Shanshan Sun,Male,175.0,68.2,N
+Shanghai Jiao Tong University,Junior,Haoran Zhou,Male,165.0,66.9,N
+Peking University,Freshman,Yuchen Li,Male,189.7,68.5,Y
+Tsinghua University,Senior,Haoran Chen,Female,180.1,60.9,N
+Nanjing University,Junior,Changqiang Liu,Female,159.0,60.2,N
+Zhejiang University,Senior,Ming Zhang,Female,161.5,66.6,N
+Tongji University,Sophomore,Changqiang Chen,Female,189.0,60.5,Y
+Fudan University,Sophomore,Shanshan Sun,Male,174.0,76.6,Y
+Nanjing University,Sophomore,Ming Sun,Female,177.4,87.6,Y
+Sun Yat-sen University,Sophomore,Ming Zhou,Female,178.9,52.0,N
+Fudan University,Junior,Ming Wang,Male,185.8,50.4,N
+Tongji University,Sophomore,Shanshan Zhou,Male,181.9,88.6,Y
+Nanjing University,Sophomore,Xiaohua Zhou,Male,150.3,41.6,N
+Tongji University,Senior,Changqiang Chen,Female,185.3,66.9,Y
+Tongji University,Senior,Gaopeng Wang,Female,183.1,76.3,Y
+Nanjing University,Senior,Haoran Zhou,Female,181.5,45.2,N
+Peking University,Sophomore,Qiang Chen,Female,155.7,52.2,N
+Fudan University,Junior,Changqiang Liu,Male,168.3,75.5,Y
+Zhejiang University,Junior,Liwei Zhou,Female,181.5,75.0,N
+Shanghai Jiao Tong University,Sophomore,Ming Xu,Female,151.0,84.0,N
+Zhejiang University,Junior,Ming Sun,Female,169.0,62.0,N
+Tsinghua University,Sophomore,Ming Sun,Female,184.4,52.9,Y
+Shanghai Jiao Tong University,Sophomore,Shanshan Wang,Male,173.4,53.0,N
+Tongji University,Sophomore,Qiang Zhang,Female,170.9,58.9,N
+Tsinghua University,Senior,Ming Zhou,Female,150.6,87.3,N
+Fudan University,Junior,Xiaohua Li,Male,161.1,78.9,Y
+Fudan University,Junior,Zhenyu Zhou,Male,183.6,82.3,Y
+Fudan University,Junior,Gaopeng Chen,Male,188.1,65.4,N
+Peking University,Freshman,Zhenyu Sun,Male,159.8,79.9,Y
+Fudan University,Sophomore,Zhenyu Zhang,Male,189.2,53.3,N
+Peking University,Sophomore,Changqiang Zhang,Female,152.4,51.4,N
+Tongji University,Freshman,Haoran Yang,Female,181.6,43.7,N
+Peking University,Senior,Changqiang Zhou,Male,154.0,69.5,N
+Zhejiang University,Freshman,Shanshan Chen,Male,178.8,62.1,Y
+Tongji University,Freshman,Liwei Chen,Female,169.7,48.8,N
+Zhejiang University,Junior,Liwei Xu,Male,163.6,73.9,N
+Tongji University,Freshman,Ming Zhou,Male,162.8,88.7,N
+Tongji University,Sophomore,Ming You,Female,176.9,44.7,N
+Nanjing University,Sophomore,Xiaohua You,Male,158.5,65.1,N
+Tongji University,Freshman,Liwei Sun,Male,172.8,47.7,Y
+Fudan University,Senior,Ming Zhang,Male,163.0,65.8,N
+Sun Yat-sen University,Junior,Xiaohua Wang,Female,187.4,81.7,N
+Tsinghua University,Junior,Qiang Liu,Female,168.0,61.3,N
+Sun Yat-sen University,Freshman,Yuchen Yang,Female,164.1,80.3,N
+Zhejiang University,Freshman,Xiaohua Li,Female,161.8,58.7,N
+Sun Yat-sen University,Senior,Qiang Xu,Male,181.9,70.9,N
+Zhejiang University,Freshman,Changqiang Li,Male,163.0,64.0,N
+Shanghai Jiao Tong University,Senior,Zhenyu Li,Female,189.5,69.3,Y
+Peking University,Freshman,Qiang Wang,Female,167.5,54.2,N
+Tsinghua University,Freshman,Qiang Chen,Male,185.0,69.5,Y
+Peking University,Senior,Xiaohua Liu,Female,172.3,80.9,Y
+Tsinghua University,Freshman,Qiang Liu,Female,179.9,50.7,N
+Tongji University,Sophomore,Zhenyu Liu,Female,158.0,88.6,N
+Zhejiang University,Freshman,Ming You,Female,167.1,80.3,Y
+Shanghai Jiao Tong University,Junior,Gaopeng Sun,Female,189.8,88.0,N
+Tongji University,Junior,Shanshan Liu,Male,179.4,68.3,Y
+Tsinghua University,Freshman,Shanshan Zhou,Male,180.1,78.4,N
+Zhejiang University,Senior,Zhenyu Zhang,Female,152.9,72.4,N
+Tongji University,Senior,Gaopeng Chen,Female,150.3,81.4,Y
+Shanghai Jiao Tong University,Sophomore,Qiang Chen,Male,160.4,51.1,N
+Tongji University,Sophomore,Shanshan Liu,Male,157.6,47.4,N
+Tsinghua University,Freshman,Gaopeng Xu,Male,181.2,67.0,Y
+Nanjing University,Junior,Xiaohua Li,Male,162.1,61.2,N
+Fudan University,Sophomore,Qiang Yang,Male,185.1,87.2,Y
+Sun Yat-sen University,Freshman,Zhenyu Li,Female,152.0,61.9,Y
+Fudan University,Senior,Shanshan You,Male,188.8,65.3,Y
+Tsinghua University,Sophomore,Changqiang Zhou,Female,180.0,55.8,Y
+Fudan University,Freshman,Haoran Liu,Female,160.2,45.6,N
+Shanghai Jiao Tong University,Freshman,Yuchen Chen,Female,188.5,45.0,N
+Zhejiang University,Freshman,Yuchen Wang,Male,190.0,44.2,N
+Tongji University,Freshman,Liwei Liu,Male,155.6,52.4,Y
+Tsinghua University,Sophomore,Ming Zhou,Male,152.4,80.1,N
+Nanjing University,Senior,Ming Chen,Male,157.0,65.9,Y
+Tsinghua University,Junior,Changqiang Zhang,Male,169.9,55.3,N
+Zhejiang University,Junior,Gaopeng Yang,Female,151.1,63.5,Y
+Sun Yat-sen University,Freshman,Haoran Chen,Male,156.3,40.7,Y
+Peking University,Senior,Changqiang You,Female,168.6,60.8,N
+Tsinghua University,Freshman,Liwei Zhou,Female,186.0,52.8,N
+Nanjing University,Freshman,Zhenyu Zhou,Male,155.0,65.7,Y
+Fudan University,Freshman,Changqiang Chen,Female,185.5,45.3,Y
+Zhejiang University,Sophomore,Liwei Liu,Female,176.7,66.0,N
+Tsinghua University,Junior,Yuchen Liu,Male,173.2,86.7,Y
+Sun Yat-sen University,Freshman,Xiaohua Zhang,Male,155.7,41.7,Y
+Tsinghua University,Senior,Qiang Yang,Female,169.4,57.2,N
+Tongji University,Sophomore,Zhenyu Sun,Female,171.8,45.9,N
+Nanjing University,Junior,Ming Wang,Female,182.3,64.4,N
+Peking University,Junior,Haoran Wang,Male,181.3,61.3,Y
+Tsinghua University,Freshman,Xiaohua Zhou,Male,154.8,75.6,Y
+Nanjing University,Junior,Zhenyu Chen,Male,188.7,88.6,Y
+Sun Yat-sen University,Sophomore,Ming Li,Male,157.9,77.2,Y
+Shanghai Jiao Tong University,Junior,Haoran Li,Male,165.0,45.0,Y
+Fudan University,Sophomore,Haoran Sun,Female,184.3,53.9,N
+Zhejiang University,Senior,Haoran Chen,Female,168.7,46.8,N
+Shanghai Jiao Tong University,Freshman,Liwei Xu,Female,158.4,76.7,Y
+Shanghai Jiao Tong University,Senior,Ming Zhang,Female,182.9,78.2,Y
+Sun Yat-sen University,Sophomore,Yuchen Chen,Male,159.9,57.5,Y
+Zhejiang University,Sophomore,Yuchen You,Male,158.2,47.1,N
+Nanjing University,Freshman,Changqiang Xu,Female,171.0,78.6,N
+Fudan University,Senior,Liwei You,Female,156.1,84.0,N
+Zhejiang University,Freshman,Yuchen Wang,Male,175.1,61.3,Y
+Tongji University,Junior,Xiaohua Xu,Male,153.5,76.6,N
+Fudan University,Senior,Yuchen Chen,Male,175.5,83.3,N
+Zhejiang University,Junior,Haoran Liu,Female,176.7,52.6,N
+Peking University,Freshman,Changqiang Zhou,Male,173.4,51.1,N
+Zhejiang University,Freshman,Zhenyu Xu,Female,174.3,83.5,N
+Shanghai Jiao Tong University,Freshman,Shanshan You,Male,154.7,78.2,N
+Sun Yat-sen University,Senior,Gaopeng Liu,Female,184.1,68.7,Y
+Sun Yat-sen University,Senior,Gaopeng Li,Male,151.0,87.3,Y
+Zhejiang University,Senior,Gaopeng Zhou,Female,164.3,74.2,N
+Fudan University,Junior,Zhenyu Yang,Female,168.3,89.5,N
+Tsinghua University,Sophomore,Haoran Xu,Female,179.6,77.7,Y
+Tongji University,Freshman,Qiang Liu,Male,162.7,55.3,Y
+Sun Yat-sen University,Junior,Shanshan Zhou,Male,180.3,50.1,N
+Nanjing University,Junior,Zhenyu Liu,Male,188.4,56.1,Y
+Fudan University,Junior,Haoran Xu,Female,180.3,66.9,N
+Peking University,Sophomore,Changqiang You,Female,184.1,47.3,N
+Nanjing University,Senior,Ming Chen,Male,183.8,76.8,N
+Peking University,Junior,Xiaohua Zhou,Male,159.8,47.8,N
+Shanghai Jiao Tong University,Senior,Xiaohua Li,Male,185.0,62.0,Y
+Tsinghua University,Freshman,Liwei Li,Male,184.3,64.2,N
+Sun Yat-sen University,Sophomore,Yuchen Zhang,Female,175.1,84.4,N
+Zhejiang University,Junior,Liwei Chen,Female,164.6,86.3,Y
+Nanjing University,Junior,Changqiang Zhang,Female,184.4,89.3,Y
+Tsinghua University,Freshman,Haoran Zhou,Female,154.2,81.3,Y
+Nanjing University,Sophomore,Zhenyu Wang,Male,168.4,61.9,N
+Peking University,Sophomore,Gaopeng Xu,Female,172.4,42.9,N
+Tongji University,Sophomore,Changqiang Liu,Male,188.2,53.8,N
+Shanghai Jiao Tong University,Senior,Yuchen Zhang,Female,158.6,62.6,N
+Nanjing University,Sophomore,Shanshan Xu,Female,155.8,67.0,N
+Shanghai Jiao Tong University,Freshman,Qiang Sun,Male,181.0,43.6,Y
+Sun Yat-sen University,Sophomore,Xiaohua Li,Male,183.4,41.5,N
+Peking University,Junior,Changqiang You,Female,173.0,87.5,N
+Sun Yat-sen University,Senior,Zhenyu Zhang,Female,157.3,55.6,Y
+Sun Yat-sen University,Junior,Zhenyu You,Male,160.4,50.0,N
+Peking University,Junior,Zhenyu You,Female,150.8,70.3,Y
+Nanjing University,Freshman,Ming Yang,Male,150.2,59.2,Y
+Nanjing University,Freshman,Ming Li,Female,157.3,50.9,N
+Peking University,Sophomore,Shanshan Liu,Male,185.7,75.3,Y
+Tsinghua University,Senior,Gaopeng Sun,Male,187.4,84.4,Y
+Zhejiang University,Junior,Changqiang Liu,Male,173.6,48.4,Y
+Tongji University,Sophomore,Shanshan Zhang,Female,187.5,86.4,N
+Tongji University,Freshman,Haoran You,Female,159.8,47.1,N
+Fudan University,Senior,Gaopeng Liu,Male,186.7,86.1,Y
+Peking University,Junior,Haoran Sun,Female,180.3,72.2,N
+Nanjing University,Sophomore,Zhenyu Li,Female,187.8,61.3,N
+Sun Yat-sen University,Freshman,Zhenyu Yang,Female,154.2,68.1,N
+Zhejiang University,Senior,Liwei Yang,Male,157.5,44.5,Y
+Nanjing University,Freshman,Haoran Yang,Male,188.7,59.2,N
+Shanghai Jiao Tong University,Senior,Haoran Xu,Male,170.3,74.1,Y
+Fudan University,Freshman,Zhenyu Zhang,Male,178.5,43.6,Y
+Tongji University,Sophomore,Shanshan Sun,Male,151.8,59.1,Y
+Zhejiang University,Freshman,Xiaohua Liu,Male,189.5,81.3,N
+Sun Yat-sen University,Freshman,Ming Zhang,Male,174.9,52.9,N
+Zhejiang University,Sophomore,Liwei Chen,Male,166.6,60.7,N
+Fudan University,Senior,Liwei Sun,Male,175.1,59.8,N
+Tsinghua University,Sophomore,Changqiang You,Male,156.4,79.6,Y
+Tsinghua University,Junior,Ming Wang,Female,161.4,54.3,N
+Peking University,Freshman,Yuchen Li,Male,172.2,64.9,Y
+Shanghai Jiao Tong University,Senior,Zhenyu You,Male,159.1,81.7,Y
+Peking University,Freshman,Xiaohua Chen,Female,167.5,47.1,Y
+Fudan University,Sophomore,Qiang Yang,Male,187.9,57.1,N
+Tsinghua University,Junior,Zhenyu Li,Male,165.7,47.7,N
+Peking University,Sophomore,Ming Li,Female,176.3,61.9,N
+Peking University,Sophomore,Shanshan Xu,Female,172.3,47.2,N
+Shanghai Jiao Tong University,Freshman,Changqiang Chen,Male,174.7,48.5,N
+Nanjing University,Freshman,Ming You,Male,150.2,40.2,Y
+Sun Yat-sen University,Freshman,Xiaohua Yang,Male,150.8,81.2,N
+Sun Yat-sen University,Junior,Shanshan Chen,Female,186.4,51.9,N
+Zhejiang University,Junior,Zhenyu Zhou,Male,168.2,84.0,Y
+Tsinghua University,Junior,Ming Chen,Female,185.3,58.4,Y
+Sun Yat-sen University,Junior,Ming Yang,Female,166.4,84.0,Y
+Sun Yat-sen University,Sophomore,Qiang Li,Female,166.8,60.9,N
+Tongji University,Senior,Zhenyu Liu,Female,163.0,59.9,Y
+Fudan University,Sophomore,Xiaohua Sun,Male,187.9,76.5,N
+Tongji University,Senior,Qiang Wang,Male,165.7,63.5,N
+Zhejiang University,Senior,Gaopeng Li,Male,163.5,84.5,N
+Sun Yat-sen University,Sophomore,Zhenyu Yang,Male,165.4,73.3,N
+Tsinghua University,Senior,Shanshan Li,Male,166.5,63.4,Y
+Tongji University,Junior,Shanshan Sun,Male,177.0,79.3,Y
+Shanghai Jiao Tong University,Freshman,Gaopeng Liu,Male,162.5,85.1,Y
+Tsinghua University,Sophomore,Liwei You,Female,174.9,55.8,N
+Tongji University,Junior,Ming Wang,Female,154.1,68.1,Y
+Tsinghua University,Senior,Changqiang Xu,Female,156.3,67.6,N
+Zhejiang University,Sophomore,Changqiang Zhang,Female,153.9,42.0,N
+Tongji University,Senior,Zhenyu Zhang,Male,173.4,89.4,N
+Tongji University,Sophomore,Zhenyu Yang,Female,187.9,68.3,N
+Peking University,Junior,Changqiang Zhang,Male,175.0,73.9,Y
+Peking University,Sophomore,Qiang Wang,Male,164.2,89.2,N
+Shanghai Jiao Tong University,Senior,Ming Liu,Female,157.7,54.0,Y
+Tongji University,Junior,Ming Yang,Male,178.0,53.2,N
+Nanjing University,Freshman,Liwei Zhou,Male,163.3,41.6,Y
+Shanghai Jiao Tong University,Junior,Yuchen Li,Female,165.2,41.8,N
+Sun Yat-sen University,Junior,Qiang Xu,Female,166.3,57.1,N
+Zhejiang University,Sophomore,Zhenyu Wang,Female,153.3,62.5,Y
+Nanjing University,Freshman,Gaopeng Zhang,Male,159.7,48.9,Y
+Tsinghua University,Sophomore,Changqiang You,Male,178.9,76.8,N
+Peking University,Sophomore,Shanshan Zhou,Female,181.4,45.3,Y
+Shanghai Jiao Tong University,Sophomore,Xiaohua You,Male,153.7,87.6,Y
+Sun Yat-sen University,Sophomore,Xiaohua Yang,Male,165.5,71.3,Y
+Tongji University,Sophomore,Zhenyu Sun,Male,168.8,76.6,Y
+Tongji University,Sophomore,Haoran Yang,Male,157.0,49.9,Y
+Fudan University,Freshman,Changqiang Li,Male,183.9,77.8,Y
+Tsinghua University,Senior,Shanshan Wang,Female,170.3,54.3,N
+Zhejiang University,Junior,Xiaohua Xu,Male,176.2,88.4,N
+Zhejiang University,Sophomore,Changqiang Yang,Male,169.8,85.1,Y
+Sun Yat-sen University,Freshman,Zhenyu Yang,Male,162.7,78.6,N
+Peking University,Junior,Qiang Zhou,Female,179.7,64.0,N
+Zhejiang University,Senior,Qiang Xu,Male,159.1,48.5,N
+Sun Yat-sen University,Senior,Zhenyu Liu,Female,168.5,85.0,N
+Tsinghua University,Sophomore,Yuchen Chen,Male,184.9,79.4,N
+Tsinghua University,Senior,Qiang Yang,Female,181.7,73.1,Y
+Tsinghua University,Sophomore,Xiaohua You,Male,165.7,47.5,N
+Fudan University,Freshman,Zhenyu Chen,Male,162.1,87.8,N
+Fudan University,Sophomore,Zhenyu Sun,Female,167.3,87.4,Y
