@@ -1,4 +1,4 @@
-# Numpy
+# Pandas
 
 [`Pandas`](https://pandas.pydata.org/)，专门用于 **数据分析和数据处理**.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 如何使用
+## 第一章：pandas基础
 
 ### 一. 基本数据结构
 
@@ -208,3 +208,4 @@ unique:
 nunique:
  8
 ```
+
